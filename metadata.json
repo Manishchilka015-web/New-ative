@@ -1,0 +1,6 @@
+{
+  "name": "Active Frame Agency",
+  "description": "Influencer marketing agency website.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
